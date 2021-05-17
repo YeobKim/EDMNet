@@ -1,1 +1,1 @@
-# TEANet
+# TEDNet
