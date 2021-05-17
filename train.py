@@ -182,7 +182,7 @@ def main():
                 # writer.add_image('noisy image', Imgn, epoch)
                 # writer.add_image('reconstructed image', Irecon, epoch)
 
-                # Compare clean, noisy, deblurring image
+                # Compare clean, blur, edge, deblurring image
                 fig = plt.figure()
                 fig.suptitle('MEDNet %d' % (epoch + 1))
                 rows = 2
