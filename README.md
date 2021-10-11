@@ -10,5 +10,13 @@ In this paper, we propse Deblurring Network Using Edge Module, Deformable Convol
 - Network Architecture
 ![EDMNet_rfa](https://user-images.githubusercontent.com/59470033/136790972-9984d09f-f93d-41ee-9edd-bd1f143ba685.png)
 
+- Sub-Network
+![subnet](https://user-images.githubusercontent.com/59470033/136791164-efc7f952-fd81-41ac-8075-2d1857b9ddef.png)
+
+
+- Deformable Convolution Attention Block
+![DAB](https://user-images.githubusercontent.com/59470033/136791190-9cb25267-910f-4896-8371-89ea9eeeb9fc.png)
+
+
 ## Experimental Results
 
