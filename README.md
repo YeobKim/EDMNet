@@ -33,6 +33,8 @@ We used the [GoPro](https://seungjunnah.github.io/Datasets/gopro) datasets for t
 There are other options you can choose. Please refer to dataset.py.
 
 ## Experimental Results
+- PSNR & SSIM
+![result](https://user-images.githubusercontent.com/59470033/136792497-03fc5c78-64d7-41bf-9442-06556c58d010.PNG)
 
 
 ## Ablation Study
