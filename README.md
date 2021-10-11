@@ -8,7 +8,7 @@ In this paper, we propse Deblurring Network Using Edge Module, Deformable Convol
 
 ## Proposed Network
 - Network Architecture
-![net](https://user-images.githubusercontent.com/59470033/136790773-733ab1ba-ce79-4b87-8227-75d4501b0b68.png)
+![EDMNet_rfa](https://user-images.githubusercontent.com/59470033/136790972-9984d09f-f93d-41ee-9edd-bd1f143ba685.png)
 
 ## Experimental Results
 
