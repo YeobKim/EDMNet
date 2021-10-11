@@ -16,5 +16,26 @@ In this paper, we propse Deblurring Network Using Edge Module, Deformable Convol
 - Deformable Convolution Attention Block
 <p align="center"><img src="https://user-images.githubusercontent.com/59470033/136791190-9cb25267-910f-4896-8371-89ea9eeeb9fc.png" width="70%" height="70%"></p>
 
+
+## Run
+* train
+```
+python train.py
+```
+
+* test
+```
+python test.py
+```
+
+## Dataset
+We used the [GoPro](https://seungjunnah.github.io/Datasets/gopro) datasets for training and testing the proposed network.   
+There are other options you can choose. Please refer to dataset.py.
+
 ## Experimental Results
 
+
+## Ablation Study
+
+## Contact
+If you have any questions, please contact athurk94111@gmail.com.
