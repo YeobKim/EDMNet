@@ -41,14 +41,14 @@ We used the [GoPro](https://seungjunnah.github.io/Datasets/gopro) datasets for t
 There are other options you can choose. Please refer to dataset.py.
 
 ## Experimental Results
-- PSNR & SSIM
+### PSNR & SSIM
 
 <p align="center"><img src="https://user-images.githubusercontent.com/59470033/136792497-03fc5c78-64d7-41bf-9442-06556c58d010.PNG" width="60%" height="60%"></p>
 
-- Qualitative comparison
+### Qualitative comparison
 
 
-- YOLO v3 Results
+### YOLO v3 Results
 | Blur | Deblur |
 |---|---|
 | ![yolo1](https://user-images.githubusercontent.com/59470033/136799347-bd1a2333-bc2e-4779-8d67-10257f94faf7.jpg) | ![yolo2](https://user-images.githubusercontent.com/59470033/136799359-87005673-5746-4622-ba0d-0fef079967f4.jpg) |
