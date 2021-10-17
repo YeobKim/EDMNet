@@ -93,7 +93,7 @@ def main():
         if (epoch + 1) < opt.decaystart_epochs:
             current_lr = opt.lr
         else:
-            current_lr = opt.lr * (0.5 ** (((epoch + 1) - (opt.decaystart_epochs - 100)) // opt.step))
+            current_lr = opt.lr * (0.5 ** (((epoch + 1) - (opt.decaystart_epochs - 200)) // opt.step))
             # current_lr = current_lr * 0.5
             if current_lr <= 0.5e-6:
                 current_lr = 0.5e-6
