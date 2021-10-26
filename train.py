@@ -121,7 +121,7 @@ def main():
 
             out_train, edge = model(blur_train)
 
-            if epoch < 800:
+            if epoch < 1600:
                 blur_loss = criterion(out_train, gt_train)
                 edge_loss = criterion(edge, original_edge)
             else:
