@@ -43,7 +43,7 @@ There are other options you can choose. Please refer to dataset.py.
 ## Experimental Results
 ### PSNR & SSIM
 
-<p align="center"><img src="https://user-images.githubusercontent.com/59470033/138881235-64c49389-6a30-4324-a222-6a472c001c61.PNG" width="50%" height="50%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/59470033/138881235-64c49389-6a30-4324-a222-6a472c001c61.PNG" width="70%" height="70%"></p>
 
 ### Qualitative comparison
 
