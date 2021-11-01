@@ -56,8 +56,7 @@ There are other options you can choose. Please refer to dataset.py.
 
 
 ## Ablation Study
-![ablation_study](https://user-images.githubusercontent.com/59470033/139620539-a637eb29-d22d-4790-b796-41751de26268.png)
-
+<p align="center"><img src="https://user-images.githubusercontent.com/59470033/139620539-a637eb29-d22d-4790-b796-41751de26268.png" width="70%" height="70%"></p>
 
 ## Contact
 If you have any questions, please contact athurk94111@gmail.com.
